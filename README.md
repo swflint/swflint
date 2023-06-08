@@ -6,7 +6,7 @@
 
 PhD student in Computer Science/Software Engineering studying Programming Languages and their empirical evaluation.  Studying under [Robert Dyer](https://cse.unl.edu/~rdyer).
 
-My major interests are in how type systems effect the use of programming languages by developers, in particular, how type systems aid developers to understand and navigate code.
+My major interests are in how type systems effect the use of programming languages by developers: in particular, how type systems aid developers to understand and navigate code.
 
 #### Sites & Social
 <!-- TODO -->
