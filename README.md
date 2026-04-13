@@ -14,11 +14,8 @@ During my Ph.D., I studied under [Robert Dyer](https://github.com/psybers), and 
 <!-- TODO -->
 
  - [Personal Site](https://samuelwflint.com)
- - [Blog](https://samuelwflint.com/posts/)
- <!-- - [Twitter](https://twitter.com/SamuelWFlint) -->
- <!-- - [Gist] -->
- <!-- - [GitHub] -->
- <!-- - [Orcid] -->
+ - [ORCiD](https://orcid.org/0000-0002-8023-9710)
+ - [Google Scholar](https://scholar.google.com/citations?user=EG6wba0AAAAJ)
  <!-- - [Stack Overflow] -->
  <!-- - [SlideShare] -->
 
