@@ -4,9 +4,11 @@
 
 #### Bio
 
-PhD student in Computer Science/Software Engineering studying Programming Languages and their empirical evaluation.  Studying under [Robert Dyer](https://cse.unl.edu/~rdyer).
+I am an Assistant Professor of Computer Science at the [Beacom College of Computer and Cyber Sciences](https://dsu.edu/academics/colleges/beacom-college/) at Dakota State University.
+My research interests are in Software Engineering, especially around Program Comprehension and Human Factors in SE.
+I approach these interests from multiple angles: [Mining Software Repositories](https://samuelwflint.com/papers/2024/how-do-developers-use-type-inference-an-exploratory-study-in-kotlin/), [eye tracking and related methods](https://samuelwflint.com/papers/2026/do-developers-read-type-information-an-eye-tracking-study-on-typescript/), and qualitative methods.
 
-My major interests are in how type systems effect the use of programming languages by developers: in particular, how type systems aid developers to understand and navigate code.
+During my Ph.D., I studied under [Robert Dyer](https://github.com/psybers), and had the opportunity to work with [Bonita Sharif](https://github.com/shbonita), Hamid Bagheri, [Salome Perez-Rosero](https://github.com/spr593), and others.
 
 #### Sites & Social
 <!-- TODO -->
